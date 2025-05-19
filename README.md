@@ -1,2 +1,2 @@
-# SPE-finalProjekt
-SPE Final Projekt for Jaskirat & Ashutosh
+# Brofers
+A modern e-commerce platform

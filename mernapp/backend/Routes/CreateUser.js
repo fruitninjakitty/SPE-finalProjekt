@@ -5,7 +5,7 @@ const { body, validationResult } = require('express-validator');
 const logger = require("../utils/logger");
 
 
-const jwtSecret = "hello my name is ram";
+const jwtSecret = "brofers-secret-key";
 const jwt = require('jsonwebtoken')
 const bcrypt = require('bcryptjs');
 

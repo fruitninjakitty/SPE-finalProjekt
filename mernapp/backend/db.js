@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = 'mongodb+srv://ramrodwal:rankerspoint1@couchpotatocluster.sz68lnd.mongodb.net/CouchPotatoCluster?retryWrites=true&w=majority'
+const mongoURI = 'mongodb+srv://jusky:your_password@broferscluster.sz68lnd.mongodb.net/BrofersCluster?retryWrites=true&w=majority'
 const mongoDB = async () => {
     mongoose.connect(mongoURI, { useNewUrlParser: true }, async (err, result) => {
         if (err) console.log("---", err);

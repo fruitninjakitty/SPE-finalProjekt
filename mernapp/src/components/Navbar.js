@@ -26,7 +26,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-dark bg-success">
         <div className="container-fluid">
           {/* link tag is the replacement of anchor tag and "to" is the replacement of "href" tag */}
-          <Link className="navbar-brand fs-1 fst-italic" to="/">CouchPotato</Link>
+          <Link className="navbar-brand fs-1 fst-italic" to="/">Brofers</Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
