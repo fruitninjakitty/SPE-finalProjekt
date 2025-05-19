@@ -1,0 +1,58 @@
+[
+  {
+    "CategoryName": "dry_fruits",
+    "productName": "Family Farm Almonds",
+    "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=480,h=480/app/images/products/sliding_image/400111a.jpg?ts=1592545419",
+    "quantity": "200g",
+    "price": "592",
+    "description": "Make a healthy and tasty addition to both sweet and savoury dishes with Almonds Dry Fruit. It is consumed raw and is sprinkled over a variety of recipes like desserts, sundaes, biscuits, cakes and ice cream based preparations."
+  },
+  {
+    "CategoryName": "dry_fruits",
+    "productName": "Nutraj Premium California Pistachios",
+    "image": "https://www.bigbasket.com/media/uploads/p/xxl/40197682_1-nutraj-premium-california-pistachios-in-shell-roasted-salted.jpg",
+    "quantity": "200g",
+    "price": "379",
+    "description": "A wonder snack for a nutritious and wholesome experience is this Nutraj pack of roasted and salted California pistachios, rich in proteins, fiber and anti-Oxidants. Low cholesterol nut with zero trans fat."
+  },
+  {
+    "CategoryName": "dry_fruits",
+    "productName": "Nutraj California Almonds",
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71WqQYaPtcL._SL1500_.jpg",
+    "quantity": "500 g",
+    "price": "380",
+    "description": "100% natural, nutritious and delicious, naturally high in Vitamin E and Manganese, making them a great addition to your diet, almonds are packed with protein essential for muscle building."
+  },
+  {
+    "CategoryName": "dry_fruits",
+    "productName": "Nutraj California In Shell Walnuts (Pouch)",
+    "image": "https://www.jiomart.com/images/product/600x600/491264394/nutraj-california-in-shell-walnuts-500-g-product-images-o491264394-p590126991-0-202207111722.jpg",
+    "quantity": "1 kg",
+    "price": "999",
+    "description": "Rich in vitamin E, melatonin omega,3 fats and antioxidants. Whole walnuts preserve the freshness and Also helps in maintaining brain health and Controls the growth of cancer cells & has many more benefits."
+  },
+  {
+    "CategoryName": "dry_fruits",
+    "productName": "Organic Tattva Peanuts",
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81gw+P-sl0L._SL1500_.jpg",
+    "quantity": "500 g",
+    "price": "145",
+    "description": "Organic Tattva Peanuts arare highly nutritious and tasty. Add them to your breakfast dishes or just roast them and consume as a snack to enjoy the delicious taste. Peanuts contain vitamins and minerals that are necessary for your well-being. They are rich in proteins and healthy fats like omega-3 and omega-6 that reduce your risk of heart disease. Can be used as the perfect ingredient in savoury dishes for a delectable taste."
+  },
+  {
+    "CategoryName": "dry_fruits",
+    "productName": "Nutraj Signature Fig (Anjeer)",
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71S9MFumOnL._SX522_.jpg",
+    "quantity": "400 g",
+    "price": "699",
+    "description": "Fresh, sweet, and dried figs have been naturally preserved with no additives. Figs contain pectin that stimulates healthy movement and expels cholesterol out of body. They are good for stamina and boost energy, and also help fight sexual weakness."
+  },
+  {
+    "CategoryName": "dry_fruits",
+    "productName": "Nutraj Seedless Turkish Dried Apricots (Pouch)",
+    "image": "https://www.bigbasket.com/media/uploads/p/xxl/70000012_4-nutraj-premium-dried-pitted-turkish-apricots.jpg",
+    "quantity": "200 g",
+    "price": "119",
+    "description": "Most juicy and full of sunshine goodness. Packed with loads of fibre and goodness.Good source of potassium and magnesium. Enjoy healthy snacking for better living."
+  }
+]

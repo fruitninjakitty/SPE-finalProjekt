@@ -1,0 +1,24 @@
+---
+- name: Deploy Docker Images
+  hosts: client1
+  tasks:
+    - name: Copy Docker Compose file from host machine to remote host
+      copy:
+        src: mernapp/docker-compose.yml
+        dest: ./
+
+
+
+    # Pull the Docker images from Docker Hub
+    - name: Pull the Docker images specifed in docker-compose
+      command: docker-compose pull
+
+    # Detached mode is required, otherwise Jenkins build never exits
+    # even though the docker-compose up command has successfully executed
+    - name: Run the pulled Docker images in detached mode
+      command: docker-compose up -d
+
+    # This is added so that the Docker images of the previous builds
+    # which will now become dangling images are removed
+    - name: Prune the dangling Docker images
+      command: docker image prune --force

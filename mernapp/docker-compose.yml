@@ -1,0 +1,63 @@
+# This specifies the version of the Docker Compose file format that the file uses.
+version: '3'
+
+# This section defines the Docker services that will be created.
+services:
+
+  # This is the name of the first service, which will be a backend API server.
+  api-server:
+  # This specifies that the Dockerfile for this
+  # service is located in the ./backend directory, 
+  # and Docker should build the image for the service 
+  #from that Dockerfile.
+    build: 
+      context: /home/ram/Documents/SPE_MajorProject_CouchPotato/mernapp/backend
+      dockerfile: Dockerfile
+    # This line maps the port 5000 on the container 
+    #to the port 5000 on the host machine, which 
+    #allows incoming requests to the API server.
+    image: ramrodwal/server
+    ports:
+      - "5000:5000"
+      # This specifies that the api-server service
+      # will be connected to the mern-app network,
+      #  which will allow it to communicate with 
+      #other services on that network.
+    volumes:
+      - ./Desktop:/usr/src/app/logs
+    networks:
+      - mern-app
+    # This sets the name of the container running 
+    #the api-server service to node-app.
+    container_name: server
+    # This command will be executed when the 
+    #container starts, which will start the 
+    #API server using the npm start command.
+    command: npm start
+  # This is the name of the second service,
+  # which will be a frontend React application.
+  react-app:
+  # This specifies that the react-app service 
+  #will use an existing image named temp, 
+  #which should already be built and available.
+    build:
+      context: /home/ram/Documents/SPE_MajorProject_CouchPotato/mernapp
+      dockerfile: Dockerfile
+    image: ramrodwal/client
+    # This sets stdin_open to true, which means
+    # that the container will keep stdin open 
+    #even if not attached. This can be useful for debugging.
+    stdin_open: true
+    ports:
+      - "3000:3000"
+    networks:
+      - mern-app
+    command: npm start
+# This section defines the mern-app network, which is a
+# bridge network that will be used to connect the api-server 
+#and react-app services.
+networks:
+  mern-app:
+    driver: bridge
+
+#use the original api(for backend) : http://localhost:5000/
