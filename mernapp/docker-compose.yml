@@ -7,8 +7,8 @@ services:
   # Backend API service configuration
   api-server:
     # Build setup using Dockerfile from backend directory
-    build: 
-      context: /home/jusky/Documents/SPE-FinalProjekt/mernapp/backend
+    build:
+      context: /home/jusky/Documents/SPE-finalProjekt/mernapp/backend
       dockerfile: Dockerfile
     # Custom image name for container registry
     image: jusky/server
@@ -30,7 +30,7 @@ services:
   react-app:
     # Build instructions from project root
     build:
-      context: /home/jusky/Documents/SPE-FinalProjekt/mernapp
+      context: /home/jusky/Documents/SPE-finalProjekt/mernapp
       dockerfile: Dockerfile
     # Client-side image naming
     image: jusky/client
