@@ -1,63 +1,54 @@
-# This specifies the version of the Docker Compose file format that the file uses.
+# Docker Compose configuration version specification
 version: '3'
 
-# This section defines the Docker services that will be created.
+# Service definitions for application components
 services:
 
-  # This is the name of the first service, which will be a backend API server.
+  # Backend API service configuration
   api-server:
-  # This specifies that the Dockerfile for this
-  # service is located in the ./backend directory, 
-  # and Docker should build the image for the service 
-  #from that Dockerfile.
+    # Build setup using Dockerfile from backend directory
     build: 
-      context: /home/ram/Documents/SPE_MajorProject_CouchPotato/mernapp/backend
+      context: /home/jusky/Documents/SPE-FinalProjekt/mernapp/backend
       dockerfile: Dockerfile
-    # This line maps the port 5000 on the container 
-    #to the port 5000 on the host machine, which 
-    #allows incoming requests to the API server.
-    image: ramrodwal/server
+    # Custom image name for container registry
+    image: jusky/server
+    # Port mapping for external access
     ports:
       - "5000:5000"
-      # This specifies that the api-server service
-      # will be connected to the mern-app network,
-      #  which will allow it to communicate with 
-      #other services on that network.
+    # Volume configuration for log persistence
     volumes:
       - ./Desktop:/usr/src/app/logs
+    # Network connectivity setup
     networks:
       - mern-app
-    # This sets the name of the container running 
-    #the api-server service to node-app.
+    # Container identifier specification
     container_name: server
-    # This command will be executed when the 
-    #container starts, which will start the 
-    #API server using the npm start command.
+    # Startup command execution
     command: npm start
-  # This is the name of the second service,
-  # which will be a frontend React application.
+
+  # Frontend React application service
   react-app:
-  # This specifies that the react-app service 
-  #will use an existing image named temp, 
-  #which should already be built and available.
+    # Build instructions from project root
     build:
-      context: /home/ram/Documents/SPE_MajorProject_CouchPotato/mernapp
+      context: /home/jusky/Documents/SPE-FinalProjekt/mernapp
       dockerfile: Dockerfile
-    image: ramrodwal/client
-    # This sets stdin_open to true, which means
-    # that the container will keep stdin open 
-    #even if not attached. This can be useful for debugging.
+    # Client-side image naming
+    image: jusky/client
+    # Keep STDIN open for interactive sessions
     stdin_open: true
+    # Port exposure for web access
     ports:
       - "3000:3000"
+    # Network association
     networks:
       - mern-app
+    # Runtime command initialization
     command: npm start
-# This section defines the mern-app network, which is a
-# bridge network that will be used to connect the api-server 
-#and react-app services.
+
+# Network configuration for inter-service communication
 networks:
   mern-app:
+    # Network driver selection
     driver: bridge
 
-#use the original api(for backend) : http://localhost:5000/
+# Backend API access endpoint: http://localhost:5000/

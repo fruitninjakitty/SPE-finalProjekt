@@ -1,74 +1,75 @@
 [
 	{
-		"CategoryName": "spices",
-		"productName": "Catch Chat Masala (Sprinkler)",
-		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61YroxhurlL._SX522_.jpg",
-		"quantity": "100g",
-		"price": "68",
-		"description": "Catch Chat Masala (Sprinkler) is a zingy, tangy, slightly-hot masala that makes the perfect seasoning. Though often used as a spice in cooking, chaat masala is mostly used as a garnish on salads, chaats (a generic name for savory Indian snacks), drinks like Indian lemonade, meals like curries and dals, etc. Prepared from carefully sourced spices grounded finely. Highly nutritious, contains nutrients like iron and calcium that are good for your health. Comes in easy-to-use sprinkler case with different settings."
+	  "CategoryName": "spices",
+	  "productName": "SpiceTrail Tangy Sprinkle Masala",
+	  "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "100g",
+	  "price": "68",
+	  "description": "A lively blend of tangy and spicy flavors, perfect for sprinkling over salads, snacks, and drinks. Packed in a handy shaker for easy use, this masala instantly boosts taste and aroma."
 	},
 	{
-		"CategoryName": "spices",
-		"productName": "MDH Kitchen King Masala",
-		"image": "https://5.imimg.com/data5/GD/RM/PW/SELLER-35654876/kitchenking-500x500.jpg",
-		"quantity": "100g",
-		"price": "68",
-		"description": "MDH Kitchen King Masala is a ready mix of aromatic spices powdered perfectly to bring any dish alive. Consisting of premium quality spices ground together it is naturally a connoiseur’s choice. Used sparingly it can lend an authentic taste to any curry with its enhanced taste and aroma. Sprinkle a little of this spice mix on your vegetable fry and enjoy the rich taste with hot chapatis. A balanced masala prepared using modern technology for retaining flavour and freshness."
+	  "CategoryName": "spices",
+	  "productName": "Royal Feast All-in-One Masala",
+	  "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "100g",
+	  "price": "68",
+	  "description": "A masterful mix of premium spices, this masala brings a rich, authentic taste to curries and vegetable dishes. Just a pinch adds a burst of flavor and aroma to your meals."
 	},
 	{
-		"CategoryName": "spices",
-		"productName": "Catch Turmeric Powder/Haldi",
-		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71AK6ErhjhL._SL1500_.jpg",
-		"quantity": "200g",
-		"price": "56",
-		"description": "Processed using the traditional grinding techniques, Catch Turmeric Powder/Haldi is known for its earthy taste and therapeutic properties. It is used to bring flavour to broths and curries and add a rich golden yellow colour. It is ground at low temperature to keep the flavour intact. A mild and healthy spice that imparts a healthy colour to food. Has therapeutic properties and can be used for medicinal purposes as well."
+	  "CategoryName": "spices",
+	  "productName": "Golden Root Turmeric Powder",
+	  "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "200g",
+	  "price": "56",
+	  "description": "Finely ground turmeric with a vibrant color and earthy aroma. Ideal for curries, soups, and health drinks. Known for its natural healing and anti-inflammatory properties."
 	},
 	{
-		"CategoryName": "spices",
-		"productName": "MDH Chana Masala",
-		"image": "https://www.jiomart.com/images/product/600x600/490005443/mdh-chana-masala-100-g-product-images-o490005443-p490005443-0-202207261921.jpg",
-		"quantity": "100 g",
-		"price": "68",
-		"description": "MDH Chana Masala is the perfect masala to enjoy your bhature. It is a blend of numerous aromatic spices that gives your chole a delicious flavour and an appetising aroma. Made from selected spices and dried ingredients carefully sourced from the best farms in the country. Prepared and packed in hygienic facility. Uses aunthentic recipe for traditional taste."
+	  "CategoryName": "spices",
+	  "productName": "SpiceMantra Chole Masala",
+	  "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "100 g",
+	  "price": "68",
+	  "description": "A robust blend crafted for chickpea dishes, this masala delivers a deep, authentic flavor and enticing aroma. Perfect for traditional chole and other North Indian recipes."
 	},
 	{
-		"CategoryName": "spices",
-		"productName": "Catch Cumin Seeds/Jeera",
-		"image": "https://www.bigbasket.com/media/uploads/p/xxl/30006787-2_1-catch-jeera-whole.jpg",
-		"quantity": "100 g",
-		"price": "40",
-		"description": "Catch Cumin Seeds/Jeera elevates the taste of any dish. This earthy spice with a mild aroma is an Indian staple. It is perfect for making Tadkas to give a punch to your dishes. Promotes Digestion. The most common traditional use of cumin is for indigestion. It is a Rich Source of Iron. Contains Beneficial Plant Compounds. Improves Blood circulation. Uses carefully sourced ingredients from selected farms."
+	  "CategoryName": "spices",
+	  "productName": "Earthy Aroma Whole Cumin",
+	  "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "100 g",
+	  "price": "40",
+	  "description": "Whole cumin seeds with a warm, earthy taste. Essential for tempering and seasoning, they add depth to dals, curries, and rice. Rich in iron and known for digestive benefits."
 	},
 	{
-		"CategoryName": "spices",
-		"productName": "Shasha Green Small Cardamom Whole/Elaichi (Pouch)",
-		"image": "https://5.imimg.com/data5/SELLER/Default/2022/4/FQ/EO/EJ/27869052/small-elachi-50g-1-500x500.jpg",
-		"quantity": "50 g",
-		"price": "340",
-		"description": "Eat Delicious, Flavourful Food.Perfect to add in a variety of dishes. A must-have in every Kitchen."
+	  "CategoryName": "spices",
+	  "productName": "Green Valley Cardamom Pods",
+	  "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "50 g",
+	  "price": "340",
+	  "description": "Premium whole green cardamom pods, prized for their sweet, floral aroma. Ideal for desserts, teas, and savory dishes. A must-have spice for every kitchen."
 	},
 	{
-		"CategoryName": "spices",
-		"productName": "Everest Chicken Masala",
-		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81848Zm7SAL._SL1500_.jpg",
-		"quantity": "100 g",
-		"price": "72",
-		"description": "Everest chicken masala is the ultimate spice for preparing delectable chicken curry that gives the right balance between the spice-elements and other ingredients in the dish. The spices used in this blend provide several health benefits. Build Muscles and increases Appetite. Keeps bones healthy and improves Immunity. Cuts Risk Of Arthritis."
+	  "CategoryName": "spices",
+	  "productName": "SpiceCrafters Chicken Curry Masala",
+	  "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "100 g",
+	  "price": "72",
+	  "description": "A bold, aromatic blend for chicken curries, this masala ensures a perfect balance of spices for rich flavor and color. Enhances taste and supports a healthy appetite."
 	},
 	{
-		"CategoryName": "spices",
-		"productName": "Dabur Hommade Ginger Garlic Paste",
-		"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71iEPQR5QxL._SL1500_.jpg",
-		"quantity": "100 g",
-		"price": "24",
-		"description": "Dabur Hommade Ginger Garlic brings you the freshest paste of garlic and ground ginger in one hygienically sealed bag. Thick and grainy texture. Adds zest and tanginess to Indian dishes like curries and gravies. Can be used at the same stage of cooking when you normally use fresh ginger and garlic. Fresh ingredients with ginger sourced from North-Eastern states and garlic sourced from Gujarat."
+	  "CategoryName": "spices",
+	  "productName": "FreshRoots Ginger Garlic Paste",
+	  "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "100 g",
+	  "price": "24",
+	  "description": "A zesty blend of freshly ground ginger and garlic, this paste brings robust flavor to curries, marinades, and stir-fries. Convenient and ready to use for everyday cooking."
 	},
 	{
-		"CategoryName": "spices",
-		"productName": "Dabur Hommade Tomato Puree (Tetra Pak)",
-		"image": "https://www.bigbasket.com/media/uploads/p/xxl/264513_7-dabur-hommade-tomato-puree-from-100-ripe-tomatoes-no-added-preservatives.jpg",
-		"quantity": "200 g",
-		"price": "25",
-		"description": "Tomato Puree, an essential cooking base for several dishes in the Indian cuisine. Dabur has now bought this base to your kitchen shelves in a convenient tetra pack. Made with carefully sourced tomatoes, the puree is sold in a thick consistency to be instantly added to your curries and gravies. Has no preservatives, is pure and natural. Add the tomato puree to your sautéed onions to give your sabzis a tangy taste."
+	  "CategoryName": "spices",
+	  "productName": "TomatoRich Puree (Tetra Pak)",
+	  "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=480&q=80",
+	  "quantity": "200 g",
+	  "price": "25",
+	  "description": "Thick, smooth tomato puree made from ripe, juicy tomatoes. Perfect for adding a tangy base to curries, gravies, and sauces. No added preservatives, just pure tomato goodness."
 	}
-]
+  ]
+  

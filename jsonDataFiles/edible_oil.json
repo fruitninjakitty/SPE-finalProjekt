@@ -1,74 +1,74 @@
 [
   {
     "CategoryName": "edible_oil",
-    "productName": "Fortune Goldnut Refined Groundnut Oil (Pouch)",
-    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51gu+qUlgVL._SX425_.jpg",
+    "productName": "PureHarvest Groundnut Oil (Pouch)",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=480&q=80",
     "quantity": "1L",
     "price": "170",
-    "description": "Fortune Goldnut Refined Groundnut Oil is extremely natural and pure since it is made from the choicest peanuts. It is light and packed with all the essential nutrients. The lightweight formula is ideal for everyday consumption. A good source of proteins and vitamins to keep the body healthy. It helps keep your body fit and healthy."
+    "description": "Extracted from premium peanuts, this light and nutritious groundnut oil is ideal for daily cooking, offering a mild flavor and essential nutrients."
   },
   {
     "CategoryName": "edible_oil",
-    "productName": "Borges Extra Virgin Olive Oil (Bottle)",
-    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61uWT5siLmL._SX522_.jpg",
+    "productName": "Mediterraneo Extra Virgin Olive Oil (Bottle)",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=480&q=80",
     "quantity": "500ml",
     "price": "750",
-    "description": "Borges Extra Virgin Olive Oil is an amazingly healthy oil that can increase the flavour and taste of your dishes, It contains 73% monounsaturated fatty acids that are excellent for heart health, It is also rich in Vitamins E and K that improve brain function, skin and hair health, and help in blood-clotting, Extra virgin olive oil is thick and greenish in colour, with a strong flavour and aroma, It is best suited for making salad dressings, dips, and cold dishes, You can also use it for baking and drizzle it over pasta for a delicious taste."
+    "description": "Cold-pressed for superior quality, this extra virgin olive oil brings a rich aroma and robust taste, perfect for dressings, dips, and drizzling over salads."
   },
   {
     "CategoryName": "edible_oil",
-    "productName": "Patanjali Kachi Ghani Pure Mustard Oil (Jar)",
-    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41odesc3LjL.jpg",
+    "productName": "Nature Pressed Mustard Oil (Jar)",
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=480&q=80",
     "quantity": "5L",
     "price": "725",
-    "description": "Patanjali Kachi Ghani Pure Mustard Oil is made from the first press of mustard seeds which keeps the delectable aroma intact, It has the goodness of LOSORB technology which ensures that foods absorb lesser amount of oil, Contains omega-3 and omega-6 fatty acids that are good for your heart health, It has a strong fragrance and a pungent taste, Use it for shallow and deep-frying, grilling, roasting, and stir-frying, Neutralizes toxins and keeps your stomach healthy, Can be used to make pickles, as it keeps them fresh for longer."
+    "description": "Unrefined and aromatic, this mustard oil is packed with omega fatty acids, making it ideal for frying, pickling, and adding a punch of flavor to Indian cuisine."
   },
   {
     "CategoryName": "edible_oil",
-    "productName": "Fortune Soya Health Refined Soyabean Oil (Pouch)",
-    "image": "https://www.bigbasket.com/media/uploads/p/l/272765-2_5-fortune-soya-bean-oil.jpg",
+    "productName": "SoyaPure Refined Soybean Oil (Pouch)",
+    "image": "https://images.pexels.com/photos/461382/pexels-photo-461382.jpeg?auto=compress&w=480&q=80",
     "quantity": "1 L",
     "price": "135",
-    "description": "Enriched with Omega 3 fatty acids, the Fortune Soya Health Refined Soyabean Oil is one of the best cooking mediums when it comes to baking sweets and cakes. The oil has a neutral flavour and is odourless and well as healthy. This oil is fortified with the rich goodness of Vitamin A and Vitamin D that keeps the eyes and bones healthy. It is a lightweight and odourless oil that makes it a great choice for keeping the heart healthy. It is an ideal oil for baking, sauteing and stir frying."
+    "description": "A heart-healthy, neutral-flavored oil, enriched with vitamins A and D, perfect for baking, sautéing, and everyday cooking."
   },
   {
     "CategoryName": "edible_oil",
-    "productName": "Emami Healthy & Tasty Refined Rice Bran Oil (Pouch)",
-    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/711bMUEX1NL._SX522_.jpg",
+    "productName": "RiceGold Refined Rice Bran Oil (Pouch)",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=480&q=80",
     "quantity": "500 ml",
     "price": "150",
-    "description": "You can now cook and serve delicious and healthy dishes with Emami Healthy & Tasty Refined Rice Bran Oil. This oil adds a flavourful taste to your meals of the day. The oil is filled with natural nutrients that are cholesterol free and keep your heart healthy and fit. Enriched with nutrients, this rice bran oil is suitable for all types of cooking. It has oryzanol that works towards keeping your heart healthy. This refined oil has natural nutrients that add to the taste of your food. It is light and ideal for everyday use."
+    "description": "Light and cholesterol-free, this rice bran oil is rich in natural antioxidants and oryzanol, making it a smart choice for all types of cooking."
   },
   {
     "CategoryName": "edible_oil",
-    "productName": "Dhara Kachi Ghani Mustard Oil (Jar)",
-    "image": "https://www.jiomart.com/images/product/600x600/490012734/dhara-kachi-ghani-mustard-oil-5-l-product-images-o490012734-p490012734-0-202203150232.jpg",
+    "productName": "FarmFresh Mustard Oil (Jar)",
+    "image": "https://images.unsplash.com/photo-1506089676908-3592f7389d4d?auto=format&fit=crop&w=480&q=80",
     "quantity": "5 L",
     "price": "775",
-    "description": "Dhara Kachi Ghani Mustard Oil is a healthy choice for cooking your daily meals, Has a strong aroma and a pungent flavour, Can be used to make pickles as it is a natural preservative that keeps them fresh for a longer duration, Acts as a digestive aid and neutralizes toxins in the body, Contains omega-3 and omega-6 fatty acids that are good for your heart health, Use it for shallow and deep-frying, grilling, roasting, and stir-frying."
+    "description": "Strong and pungent, this traditional mustard oil is perfect for pickling, frying, and enhancing the flavor of authentic recipes."
   },
   {
     "CategoryName": "edible_oil",
-    "productName": "Sundrop GoldLite Refined Vegetable Oil (Pouch)",
-    "image": "https://www.bigbasket.com/media/uploads/p/l/253562_2-sundrop-oil-gold-lite.jpg",
+    "productName": "SunLite Refined Vegetable Oil (Pouch)",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=480&q=80",
     "quantity": "1 L",
     "price": "140",
-    "description": "Made from a blend of refined sunflower oil and refined corn oil, Sundrop Gold Lite Edible Oil can be used to pan out a number of dishes. It makes for a healthy medium to temper a wide variety of vegetables and curries."
+    "description": "A healthy blend of sunflower and corn oils, ideal for sautéing, frying, and making a variety of delicious dishes with a light touch."
   },
   {
     "CategoryName": "edible_oil",
-    "productName": "Raag Gold Palmolein Oil (Pouch)",
-    "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/VD/QF/AJ/38290261/raag-gold-palm-oil-500x500.jpg",
+    "productName": "PalmFresh Palmolein Oil (Pouch)",
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=480&q=80",
     "quantity": "1 L",
     "price": "110",
-    "description": "Raag Gold Palmolein Oil (Pouch) Palm oil is extracted from the flesh of the fruit of Elaeis Guineensis using pressure. Palm oil is used for shallow and deep-frying in Indian kitchens. The oil is semi-solid at room temperature and is highly resistant to oxidation and prolonged exposure. It helps in preventing vitamin A deficiency, cancer, brain disease, and aging. It helps in treating malaria, high blood pressure, high cholesterol & dementia. Increases the body's metabolism and helps with weight loss."
+    "description": "Versatile and stable, this palmolein oil is suitable for deep-frying and everyday cooking, offering a neutral taste and high heat resistance."
   },
   {
     "CategoryName": "edible_oil",
-    "productName": "Pansari Sesame Oil/Til Oil (Bottle)",
-    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/412hAj0ysZL._SX342_.jpg",
+    "productName": "Sesame Essence Til Oil (Bottle)",
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=480&q=80",
     "quantity": "1 L",
     "price": "180",
-    "description": "Imparts a pleasant flavour to all the dishes that it is added to. Perfect for being used as a pickling agent and it adds to the taste as well.Pure sesame oil that has a pungent and fresh aroma. Has a pleasant flavour and fragrance."
+    "description": "Cold-pressed sesame oil with a rich, nutty aroma, perfect for enhancing the taste of salads, stir-fries, and traditional recipes."
   }
 ]
